@@ -1,5 +1,5 @@
 const bar = () => {
-  return "hello";
+  return "hello lois";
 }
 
 function test() {
