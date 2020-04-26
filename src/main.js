@@ -7,4 +7,4 @@ const foo = (i) => {
   return a;
 }
 
-var i = 34;
+var i = 42;
